@@ -3,9 +3,9 @@
  *  Implementation of Student class for the required task from Question 1  */
 public class Student {
 
-    String name;
-    String major;
-    double gpa;
+    private String name;
+    private String major;
+    private double gpa;
 
     public Student(){
         name = "Mary Ann";
